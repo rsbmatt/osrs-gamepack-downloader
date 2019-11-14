@@ -1,3 +1,5 @@
+The new repository (along with the collection of gamepacks) now resides [here](https://github.com/runetech/osrs-gamepack-downloader).
+
 # OSRS Gamepack Downloader
 
 Simple OldSchool RuneScape gamepack downloader written in [Kotlin](https://kotlinlang.org).
